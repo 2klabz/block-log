@@ -1,7 +1,7 @@
 # Site settings
 title:        "block-Log"
 description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
-baseurl:      "" # the subpath of your site, e.g. /blog/
+baseurl:      "/block-log" # the subpath of your site, e.g. /blog/
 url:          "http://2klabz.github.io" # the base hostname & protocol for your site
 permalink:    /:year/:title
 github:       "yourusername"
